@@ -1,0 +1,36 @@
+body{
+    font-family:'Arimo', sans-serif;
+    text-align: center;
+}
+form{
+    display:inline-block;
+    background-color: aqua;
+    border:solid;
+    padding: 20px;
+}
+label{
+    display:table-cell;
+    text-align:right;
+}
+input{
+    display:table-cell;
+    margin: 20px;
+    padding: 4px;
+    border-radius: 5px;
+}
+.row{
+    display:table-row;    
+}
+button{
+    margin: 20px;
+    padding:4px;
+    border-radius: 5px;
+    background-color:orange;
+    cursor: pointer;
+}
+h1{
+    text-align:center !important;
+}
+span{
+    color:red;
+}

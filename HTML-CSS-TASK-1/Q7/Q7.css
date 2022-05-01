@@ -1,0 +1,57 @@
+body{
+    font-family:'Arimo', sans-serif;
+    text-align: center;
+}
+form{
+    display:inline-block;
+    border:solid;
+    padding: 5px;
+}
+.title{
+    color:white;
+    background-color: red;
+    margin:10px;
+    padding:10px;
+}
+.input {
+    background-color: #fcfcfc;
+    border: 0;
+    border-bottom: 2px solid black;
+    padding: 10px;
+    text-align:center;
+    font-family:serif;
+    font-style: italic;
+  }
+.row-first{
+    display:flex;
+    justify-content:space-between;
+}
+.row-third{
+    display:flex;
+    align-content:space-between;
+}
+.underline{
+    margin: 20px;
+}
+.underline-address{
+    width: 95%;
+}
+.name{
+    width: 225px;    
+}
+.label{
+    display:flex;
+    text-align:left;
+}
+.row-four{
+    display:flex;
+    text-align:left;
+    margin: 20px;
+}
+.row-five{
+    text-align: left;
+    margin: 20px;
+}
+.row-five-list{
+    margin-left: 20px;
+}
