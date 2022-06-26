@@ -1,0 +1,18 @@
+.head-total{
+    background-color: black;
+}
+.header{
+    color:white !important;
+    height:400px;
+}
+a{
+    color:white !important;
+}
+.header{
+    position: relative;
+}
+.name{
+    position:absolute;
+    bottom: 150px;
+}
+
