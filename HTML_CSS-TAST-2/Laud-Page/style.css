@@ -1,0 +1,52 @@
+.head-total{
+    background-color: black;
+}
+.header{
+    color:white !important;
+    height:400px;
+}
+a{
+    color:white !important;
+}
+.header{
+    position: relative;
+}
+.name{
+    position:absolute;
+    bottom: 150px;
+}
+.quote{
+    background-color: black;
+    color:white;
+}
+.book{
+    color:white !important;
+}
+.seperator{
+    display: flex;
+    align-items: center;
+}
+.seperator h3{
+    padding: 0.2 rem;
+}
+.seperator .line{
+    flex: 1;
+    height:2px;
+    background-color:rgb(196, 191, 191);
+}
+.vl {
+    border-left: 1px solid gray;
+    height: 100px;
+}
+.footer{
+    font-size: smaller;
+}
+.disclaimer{
+    color: cyan;
+}
+.footername{
+    color: gray;
+}
+.tech{
+    color: gray;
+}
