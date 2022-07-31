@@ -1,0 +1,144 @@
+{
+    "bio_data": {
+      "name": "Ranjeethkumar",
+      "label": "Full Stack Developer",
+      "image": "",
+      "email": "rmpranjeeth@gmail.com",
+      "phone": "+91 7904220584",
+      "url": "https://rmpranjeeth.com",
+      "summary":[ "Competent at managing responsibilities in a high-volume atmosphere",
+      "Hard worker, quick learner, and ability to assume responsibility"],
+      "location": {
+        "address": "103C, Nehru Street, 15 velampalayam",
+        "postalCode": "641652",
+        "city": "Tiruppur",
+        "countryCode": "IND",
+        "state": "Tamilnadu"
+      },
+      "profiles": [{
+        "skype_id": "https://join.skype.com/invite/fmlg8pWrhTXv",
+        "linkedin_id": "https://www.linkedin.com/in/ranjeethkumar-p-625194a2",
+        "github_id": "https://github.com/rmpranjeeth"
+      }]
+    },
+    "education": [
+        {
+            "degree": "Bachelor 0f Engineering",
+            "major": "Civil Engineering",
+            "college_name": "Kongu Engineering College, perundurai",
+            "graduation_year": 2018,
+            "gpa": "7.62/10"
+        },
+        {
+            "grade": "12th standard",
+            "major": "Computer Science",
+            "institution": "KSC Govt Hr Sec School",
+            "graduation_year": 2014,
+            "score": "91%"
+        },
+        {
+            "grade": "10th standard",
+            "major": "Science",
+            "institution": "Learning Heart High School",
+            "graduation_year": 2012,
+            "score": "89%"
+        }
+    ],
+    "certificate_courses": [{
+      "name": "FSD-MERN",
+      "date": "2022-08-01",
+      "issuer": "Guvi-IIT",
+      "url": "https://certificate.com"
+    }],
+    "skills": [{
+        "details": [
+            {
+                "type": "Frontend",
+                "items": [
+                    "HTMl",
+                    "CSS",
+                    "Javascript"
+                ]
+            },
+            {
+                "type": "Web Libraries/Frameworks",
+                "items": [
+                    "React"
+                ]
+            },
+            {
+                "type": "Backend",
+                "items": [
+                    "MongoDB",
+                    "NodeJS",
+                    "AWS",
+                    "System Design"
+                ]
+            }
+        ]
+    }],
+    "projects": [
+        {
+            "name": "Ecommerce Website",
+            "description": "Description…",
+            "highlights": [
+                "MERN Stack"
+            ],
+            "keywords": [
+                "HTML"
+            ],
+            "url": "https://project.com/",
+            "entity": "Entity",
+            "type": "application"
+        },
+        {
+            "name": "IT Ticketing System App",
+            "description": "Description…",
+            "highlights": [
+              "MERN Stack"
+            ],
+            "keywords": [
+              "HTML"
+            ],
+            "url": "https://project.com/",
+            "entity": "Entity",
+            "type": "application"
+        },
+        {
+            "name": "CRM Website",
+            "description": "Description…",
+            "highlights": [
+              "MERN Stack"
+            ],
+            "keywords": [
+              "HTML"
+            ],
+            "url": "https://project.com/",
+            "entity": "Entity",
+            "type": "application"
+        }
+    ],
+    "work": [{
+        "name": "Proxedge Solutions LLC",
+        "position": "Modeler",
+        "experience": "4.5 year"
+    }],
+    "languages_known": [{
+      "language": "English",
+      "fluency": "Professional speaker"
+    }],
+    "interests": [{
+      "name": "Travelling",
+      "keywords": [
+        "Ferrets",
+        "Mountains"
+      ]
+    }],
+    "references": [{
+      "name": "john",
+      "reference": "Reference…"
+    }]
+}
+
+
+
